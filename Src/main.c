@@ -19,6 +19,7 @@
 #include "stm32f4xx.h"
 
 #include <stdint.h>
+#include "rcc.h"
 
 int main(void)
 {
