@@ -1,0 +1,38 @@
+# ===== Build output (STM32CubeIDE) =====
+Debug/
+Release/
+build/
+
+# ===== Compiled / generated files =====
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.lst
+*.a
+*.out
+
+# ===== Logs =====
+*.log
+*.log.*
+
+# ===== IDE (Eclipse / CubeIDE) auto-generated =====
+.settings/language.settings.xml
+.metadata/
+*.launch
+.mxproject
+.vscode/
+.idea/
+
+# ===== OS / editor junk =====
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.bak
+*.tmp
